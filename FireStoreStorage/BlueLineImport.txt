@@ -35,4 +35,4 @@ FireStoreStorage/
 InitialingProject/
 InitialingProject/InitialingBasics.unitypackage
 InitialingProject/InitialingURP.unitypackage
-
+.gitattributes
