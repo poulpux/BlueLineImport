@@ -17,6 +17,8 @@ Graphics/SkyBox/
 Graphics/SkyBox/BASIC-SkyBoxPastel++.unitypackage
 Graphics/SkyBox/PastelSkyBox.unitypackage
 Graphics/SkyBox/RealSkyBox.unitypackage
+Graphics/UI/
+Graphics/UI/PolygonIcon.unitypackage
 Sprites&3DModels/
 Sprites&3DModels/Sprites/
 Sprites&3DModels/Sprites/SpritesUIProjetToussaint.unitypackage
