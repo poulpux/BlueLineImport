@@ -11,11 +11,18 @@ BlueLine/Ennemies/
 BlueLine/Ennemies/VisionField.unitypackage
 BlueLine/Manager/
 BlueLine/Manager/InputMobile.unitypackage
+BlueLine/Physique/
+BlueLine/Physique/Inertie.unitypackage
+BlueLine/System/
+BlueLine/System/FramerateSetter.unitypackage
 BlueLine/UI/
+BlueLine/UI/Fade.unitypackage
 BlueLine/UI/OpenCloseLerpUI.unitypackage
 BlueLinePerso/
 FireStoreStorage/
 InitialingProject/
 InitialingProject/InitialingBasics.unitypackage
+InitialingProject/InitialingBasicsWithMenu.unitypackage
 InitialingProject/InitialingURP.unitypackage
+InitialingProject/InitialingURPWithMenu.unitypackage
 
