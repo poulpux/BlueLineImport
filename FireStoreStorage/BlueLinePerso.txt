@@ -1,3 +1,4 @@
+MyScriptIA.unitypackage
 Graphics/
 Graphics/Intégration/
 Graphics/Intégration/Polygon1KTree.unitypackage
@@ -19,7 +20,17 @@ Graphics/SkyBox/PastelSkyBox.unitypackage
 Graphics/SkyBox/RealSkyBox.unitypackage
 Graphics/UI/
 Graphics/UI/PolygonIcon.unitypackage
+IA/
+IA/BehaviourTree.unitypackage
+Scripts/
+Scripts/CHICKENMMO/
+Scripts/CHICKENMMO/EntitiesMVCScriptTPS3Grid.unitypackage
+Scripts/CHICKENMMO/Environement/
+Scripts/CHICKENMMO/Environement/BlockOpti.unitypackage
+Scripts/CHICKENMMO/Player/
+Scripts/CHICKENMMO/Player/PlayerMovementChickenMMO.unitypackage
 Sprites&3DModels/
+Sprites&3DModels/Chess3D.unitypackage
 Sprites&3DModels/Sprites/
 Sprites&3DModels/Sprites/SpritesUIProjetToussaint.unitypackage
 
