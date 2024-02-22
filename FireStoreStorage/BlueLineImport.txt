@@ -19,6 +19,8 @@ BlueLine/Photon/
 BlueLine/Photon/TransformWithLerp.unitypackage
 BlueLine/Physique/
 BlueLine/Physique/Inertie.unitypackage
+BlueLine/Scene/
+BlueLine/Scene/DefaultScene.unitypackage
 BlueLine/Shader/
 BlueLine/Shader/Rasengan.unitypackage
 BlueLine/System/
