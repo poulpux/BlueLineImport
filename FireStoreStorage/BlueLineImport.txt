@@ -4,6 +4,9 @@ BlueLine/
 BlueLine/3C/
 BlueLine/3C/Jump.unitypackage
 BlueLine/3C/FPS/
+BlueLine/3C/FPS/Flashlight.unitypackage
+BlueLine/3C/FPS/GrabObject.unitypackage
+BlueLine/3C/FPS/MovementStateManager.unitypackage
 BlueLine/3C/FPS/PlayerMovementAndCameraFPS.unitypackage
 BlueLine/3C/Platformer/
 BlueLine/3C/Platformer/PlayerMovementPlatformer.unitypackage
