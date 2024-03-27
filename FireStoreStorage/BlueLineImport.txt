@@ -10,6 +10,8 @@ BlueLine/3C/FPS/MovementStateManager.unitypackage
 BlueLine/3C/FPS/PlayerMovementAndCameraFPS.unitypackage
 BlueLine/3C/Platformer/
 BlueLine/3C/Platformer/PlayerMovementPlatformer.unitypackage
+BlueLine/Camera/
+BlueLine/Camera/CameraShake.unitypackage
 BlueLine/Ennemies/
 BlueLine/Ennemies/VisionField.unitypackage
 BlueLine/Environement/
