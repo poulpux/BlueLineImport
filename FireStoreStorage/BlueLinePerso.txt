@@ -4,11 +4,12 @@ CHICKENMMO/Environement/
 CHICKENMMO/Environement/BlockOpti.unitypackage
 CHICKENMMO/Player/
 CHICKENMMO/Player/PlayerMovementChickenMMO.unitypackage
-ExamGA3/
-ExamGA3/AllParticles.unitypackage
-ExamGA3/DeckClashRoyalSystem.unitypackage
-ExamGA3/MenuParallaxParticles.unitypackage
-ExamGA3/ProjoClashRoyal.unitypackage
+ExamGA3_URP2D/
+ExamGA3_URP2D/AllParticles.unitypackage
+ExamGA3_URP2D/DeckClashRoyalSystem.unitypackage
+ExamGA3_URP2D/MenuParallaxParticles.unitypackage
+ExamGA3_URP2D/ProjoClashRoyal.unitypackage
+ExamGA3_URP2D/URP2DTest.unitypackage
 Graphics/
 Graphics/Shader/
 Graphics/Shader/Rasengan.unitypackage
