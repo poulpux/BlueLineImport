@@ -26,6 +26,7 @@ BlueLine/Managers/RaycastManagerMobile.unitypackage
 BlueLine/Managers/RaycastManagerMouse&Keyboard.unitypackage
 BlueLine/Materials/
 BlueLine/Materials/DefaultMaterials.unitypackage
+BlueLine/Materials/DefaultMaterialsURP.unitypackage
 BlueLine/Photon/
 BlueLine/Photon/TransformWithLerp.unitypackage
 BlueLine/Physique/
