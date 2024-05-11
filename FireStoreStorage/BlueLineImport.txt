@@ -32,6 +32,7 @@ BlueLine/Physique/
 BlueLine/Physique/Inertie.unitypackage
 BlueLine/Physique/Slide.unitypackage
 BlueLine/Scenes/
+BlueLine/Scenes/DefaultMenu.unitypackage
 BlueLine/Scenes/DefaultScene.unitypackage
 BlueLine/Scenes/MenuParallaxParticles2DURP.unitypackage
 BlueLine/Shader/
